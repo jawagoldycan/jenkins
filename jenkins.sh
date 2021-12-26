@@ -1,1 +1,1 @@
-echo "Helo , am from github script"
+echo "Hey , am from github script"
